@@ -15,4 +15,6 @@ end
 
 def using_uniq(array)
   
-  array
+  array.uniq
+  
+end
