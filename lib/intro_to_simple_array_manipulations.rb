@@ -8,9 +8,11 @@ end
 
 
 def using_insert (array,element)
-  array = [1, 2, 3, 4, 5, 6, 8]
+  
   array.insert(4, element)
   
 end
 
-def using_uniq
+def using_uniq(array)
+  
+  array
