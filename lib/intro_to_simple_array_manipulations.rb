@@ -20,8 +20,11 @@ end
 
 def using_flatten (array)
   
-  array.
+  array = [arrayb = [element, element], 1, 2, 3]
+  array.flatten
   
+end     
+     
   
   
   
